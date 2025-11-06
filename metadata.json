@@ -1,0 +1,7 @@
+{
+  "name": "PulseChain: Blood Donation Registry",
+  "description": "A decentralized application to connect blood donors with hospitals in real-time during emergencies, leveraging geo-location to find nearby donors quickly and securely.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
